@@ -1,4 +1,4 @@
-# LitExtension: osCommerce to Woocommerce migration plugin
+# osCommerce to Woocommerce migration plugin
 Contributors: LitExtension
 Donate link: 
 Tags: osCommerce to woocommerce, osCommerce to woocommerce migration, migrate osCommerce to woocommerce  
