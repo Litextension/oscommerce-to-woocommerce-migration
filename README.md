@@ -1,17 +1,6 @@
 # osCommerce to Woocommerce migration plugin
-Contributors: LitExtension
-Donate link: 
-Tags: osCommerce to woocommerce, osCommerce to woocommerce migration, migrate osCommerce to woocommerce  
-Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 0.6.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you to migrate your products, orders, customers, passwords and other data from osCommerce to WooCommerce automatically.
-
-== Description ==
-This plugin allows you to migrate your products, categories, orders, customers, passwords and other data from osCommerce to WooCommerce automatically. 
 
 = WHAT DATA CAN POSSIBLY BE MIGRATED =
 
